@@ -1,10 +1,11 @@
 # 📑 Git e Git Hub
 
+Curso de Git e GitHub.
 
 
 ## ⚙️Tecnologias
 
-
+- Visual Studio Code
 
 ## 📚 Documentação
 
