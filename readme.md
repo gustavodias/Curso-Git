@@ -1,6 +1,6 @@
 # 📑 Git e Git Hub
 
-Curso de Git e GitHub.
+Curso de Git e GitHub na Vida Real.
 
 ## ⚙️Tecnologias
 
