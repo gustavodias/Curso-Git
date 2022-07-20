@@ -1,10 +1,6 @@
 # 📑 Git e Git Hub
 
-<<<<<<< HEAD
 Curso de Git e GitHub.
-=======
-Curso de Git e GitHub na Vida Real.
->>>>>>> 2166a6ac4e7569d5ca8eadd3d0a8cf5f011dfd30
 
 ## ⚙️Tecnologias
 
@@ -13,12 +9,7 @@ Curso de Git e GitHub na Vida Real.
 
 ## 📚 Documentação
 
-<<<<<<< HEAD
 Teste brantch nova
-=======
-Em contrução por outro usuario
-Teste master
->>>>>>> 2166a6ac4e7569d5ca8eadd3d0a8cf5f011dfd30
 
 ## ✍️ Autor
 
