@@ -6,7 +6,7 @@ Curso de Git e GitHub na Vida Real.
 
 - Visual Studio Code
 
-## 📚 Documentação
+## 📚 Documentação 1.0
 
 Em contrução por outro usuario
 Teste master
