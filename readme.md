@@ -7,7 +7,7 @@ Curso de Git e GitHub.
 - Visual Studio Code
 - Update brantch
 
-## 📚 Documentação
+## 📚 Documentação branch
 
 Teste brantch nova
 
