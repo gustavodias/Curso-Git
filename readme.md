@@ -5,7 +5,7 @@ Curso de Git e GitHub.
 ## ⚙️Tecnologias
 
 - Visual Studio Code
-- Update brantch
+- Update brantch do desespero
 
 ## 📚 Documentação branch
 
